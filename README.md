@@ -1,21 +1,27 @@
 # markdown_sintaxjeje
 profe cris jeje
-# 📘 Documentación de Markdown
+#  Documentación de Markdown
 Descripción general
 
 ---
 
-## 📌 ¿Qué es Markdown?
+##  ¿Qué es Markdown?
 Explicación...
 
 ---
 
-## 📋 Comandos de Markdown
+##  Comandos de Markdown
 
 ---
 
 ### 1. Encabezados
-Código y explicación...
+Usa de 1 a 6 # para crear títulos.
+# Título H1
+## Título H2
+### Título H3
+#### Título H4
+##### Título H5
+###### Título H6.
 
 ---
 
