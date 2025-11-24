@@ -24,7 +24,7 @@ Es ampliamente usado en archivos README, documentación, blogs, notas y más.
 ##### Título H5
 ###### Título H6
 
-## 2. Negritas, cursivas y tachado
+### 2. Negritas, cursivas y tachado
 **Negritas**
 *Cursivas*
 ***Negritas y cursivas***
