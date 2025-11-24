@@ -27,7 +27,12 @@ Usa de 1 a 6 # para crear títulos.
 ---
 
 ### 2. Negritas, cursivas y tachado
-Código y explicación...
+
+**Negritas**
+*Cursivas*
+***Negritas y cursivas***
+~~Tachado~~
+
 
 ---
 
