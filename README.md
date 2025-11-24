@@ -1,33 +1,61 @@
 # markdown_sintaxjeje
 profe cris jeje
-# Documentación de Markdown
+# 📘 Documentación de Markdown
+Descripción general
 
-Este documento explica el funcionamiento del lenguaje de marcado **Markdown**, así como los comandos más utilizados con ejemplos prácticos.
+---
 
-----------------------------------------------
+## 📌 ¿Qué es Markdown?
+Explicación...
 
-## ¿Qué es Markdown?
+---
 
-**Markdown** es un lenguaje de marcado ligero que permite dar formato a texto usando una sintaxis sencilla.  
-Es ampliamente usado en archivos README, documentación, blogs, notas y más.
+## 📋 Comandos de Markdown
 
-----------------------------------------------
-
-## Comandos de Markdown
+---
 
 ### 1. Encabezados
-```markdown
-# Título H1
-## Título H2
-### Título H3
-#### Título H4
-##### Título H5
-###### Título H6
+Código y explicación...
 
---------------------------------------------
+---
 
 ### 2. Negritas, cursivas y tachado
-**Negritas**
-*Cursivas*
-***Negritas y cursivas***
-~~Tachado~~
+Código y explicación...
+
+---
+
+### 3. Listas
+Código y explicación...
+
+---
+
+### 4. Enlaces
+Código y explicación...
+
+---
+
+### 5. Imágenes
+Código y explicación...
+
+---
+
+### 6. Citas
+Código y explicación...
+
+---
+
+### 7. Código
+Código y explicación...
+
+---
+
+### 8. Tablas
+Código y explicación...
+
+---
+
+## 📚 Recursos recomendados
+
+---
+
+## 🧑‍💻 Autor
