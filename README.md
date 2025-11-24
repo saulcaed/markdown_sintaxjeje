@@ -22,7 +22,7 @@ Usa de 1 a 6 # para crear títulos.
 ### Título H3
 #### Título H4
 ##### Título H5
-###### Título H6.
+###### Título H6
 
 ---
 
