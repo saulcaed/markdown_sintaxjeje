@@ -15,6 +15,7 @@ Explicación...
 ---
 
 ### 1. Encabezados
+
 Usa de 1 a 6 # para crear títulos.
 # Título H1
 ## Título H2
