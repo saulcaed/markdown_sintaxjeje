@@ -1,73 +1,169 @@
 # markdown_sintaxjeje
 profe cris jeje
-#  Documentación de Markdown
-Descripción general
+# 📘 Documentación de Markdown
+
+Este documento muestra los comandos de Markdown con **dos ejemplos por sección**:
+1. **Cómo se escribe (código)**
+2. **Cómo se ve (resultado final)**
 
 ---
 
-##  ¿Qué es Markdown?
-Explicación...
+# 📌 ¿Qué es Markdown?
+
+Markdown es un lenguaje de marcado ligero que permite dar formato al texto de una manera sencilla usando símbolos especiales.
 
 ---
 
-##  Comandos de Markdown
+# 🧩 Encabezados
 
----
-
-### 1. Encabezados
-
-Usa de 1 a 6 # para crear títulos.
+### ✔ Cómo se escribe:
+```markdown
 # Título H1
 ## Título H2
 ### Título H3
-#### Título H4
-##### Título H5
-###### Título H6
+```
+
+### ✔ Cómo se ve:
+# Título H1
+## Título H2
+### Título H3
 
 ---
 
-### 2. Negritas, cursivas y tachado
+# 🧩 Negritas, cursivas y tachado
 
+### ✔ Cómo se escribe:
+```markdown
 **Negritas**
 *Cursivas*
 ***Negritas y cursivas***
 ~~Tachado~~
+```
 
-
----
-
-### 3. Listas
-Código y explicación...
-
----
-
-### 4. Enlaces
-Código y explicación...
+### ✔ Cómo se ve:
+**Negritas**  
+*Cursivas*  
+***Negritas y cursivas***  
+~~Tachado~~
 
 ---
 
-### 5. Imágenes
-Código y explicación...
+# 🧩 Listas
+
+### ✔ Cómo se escribe:
+```markdown
+- Elemento 1
+- Elemento 2
+  - Sub-elemento
+
+1. Primer paso
+2. Segundo paso
+```
+
+### ✔ Cómo se ve:
+- Elemento 1
+- Elemento 2
+  - Sub-elemento
+
+1. Primer paso  
+2. Segundo paso
 
 ---
 
-### 6. Citas
-Código y explicación...
+# 🧩 Listas de tareas
+
+### ✔ Cómo se escribe:
+```markdown
+- [x] Tarea completada
+- [ ] Tarea pendiente
+```
+
+### ✔ Cómo se ve:
+- [x] Tarea completada  
+- [ ] Tarea pendiente
 
 ---
 
-### 7. Código
-Código y explicación...
+# 🧩 Enlaces
+
+### ✔ Cómo se escribe:
+```markdown
+[Visitar Google](https://www.google.com)
+```
+
+### ✔ Cómo se ve:
+[Visitar Google](https://www.google.com)
 
 ---
 
-### 8. Tablas
-Código y explicación...
+# 🧩 Imágenes
+
+### ✔ Cómo se escribe:
+```markdown
+![Texto alternativo](https://via.placeholder.com/150)
+```
+
+### ✔ Cómo se ve:
+![Texto alternativo](https://via.placeholder.com/150)
 
 ---
 
-## 📚 Recursos recomendados
+# 🧩 Citas
+
+### ✔ Cómo se escribe:
+```markdown
+> Esta es una cita en Markdown
+```
+
+### ✔ Cómo se ve:
+> Esta es una cita en Markdown
 
 ---
 
-## 🧑‍💻 Autor
+# 🧩 Código
+
+### ✔ Cómo se escribe:
+```markdown
+`codigo en línea`
+
+```python
+print("Hola mundo")
+```
+```
+
+### ✔ Cómo se ve:
+`codigo en línea`
+
+```python
+print("Hola mundo")
+```
+
+---
+
+# 🧩 Tablas
+
+### ✔ Cómo se escribe:
+```markdown
+| Nombre | Edad | Ciudad |
+|--------|------|---------|
+| Ana    | 23   | Madrid  |
+| Luis   | 30   | Lima    |
+```
+
+### ✔ Cómo se ve:
+| Nombre | Edad | Ciudad |
+|--------|------|---------|
+| Ana    | 23   | Madrid  |
+| Luis   | 30   | Lima    |
+
+---
+
+# 🧩 Separadores
+
+### ✔ Cómo se escribe:
+```markdown
+---
+```
+
+### ✔ Cómo se ve:
+---
