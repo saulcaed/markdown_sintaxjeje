@@ -94,11 +94,11 @@ Markdown es un lenguaje de marcado sencillo que sirve para dar formato a texto u
 
 ###  Cómo se escribe:
 ```markdown
-![Texto alternativo](https://via.placeholder.com/150)
+![Texto alternativo](https://images.everydayhealth.com/images/diet-nutrition/bananas-nutrition-facts-1440x810.jpg?sfvrsn=5e5dc687_3)
 ```
 
 ### ✔ Cómo se ve:
-![Texto alternativo](https://via.placeholder.com/150)
+![Texto alternativo](https://images.everydayhealth.com/images/diet-nutrition/bananas-nutrition-facts-1440x810.jpg?sfvrsn=5e5dc687_3)
 
 ---
 
