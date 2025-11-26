@@ -1,5 +1,4 @@
-# markdown_sintaxjeje
-profe cris jeje
+# markdown_syntax
 #  Documentación de Markdown
 
 ---
