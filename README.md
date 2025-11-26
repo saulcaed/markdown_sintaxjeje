@@ -4,7 +4,7 @@
 
 #  ¿Qué es Markdown?
 
-Markdown es un lenguaje de marcado ligero que permite dar formato al texto de una manera sencilla usando símbolos especiales.
+Markdown es un lenguaje de marcado sencillo que sirve para dar formato a texto usando símbolos del teclado. Con él puedes poner títulos, negritas, listas, enlaces, etc., sin usar herramientas complicadas. Se usa mucho en programación, documentación, blogs y plataformas como GitHub porque es fácil de escribir, leer y convertir a otros formatos como HTML.
 
 ---
 
