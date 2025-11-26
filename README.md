@@ -1,20 +1,16 @@
 # markdown_sintaxjeje
 profe cris jeje
-# 📘 Documentación de Markdown
-
-Este documento muestra los comandos de Markdown con **dos ejemplos por sección**:
-1. **Cómo se escribe (código)**
-2. **Cómo se ve (resultado final)**
+#  Documentación de Markdown
 
 ---
 
-# 📌 ¿Qué es Markdown?
+#  ¿Qué es Markdown?
 
 Markdown es un lenguaje de marcado ligero que permite dar formato al texto de una manera sencilla usando símbolos especiales.
 
 ---
 
-# 🧩 Encabezados
+#  Encabezados
 
 ### ✔ Cómo se escribe:
 ```markdown
@@ -30,7 +26,7 @@ Markdown es un lenguaje de marcado ligero que permite dar formato al texto de un
 
 ---
 
-# 🧩 Negritas, cursivas y tachado
+#  Negritas, cursivas y tachado
 
 ### ✔ Cómo se escribe:
 ```markdown
@@ -48,7 +44,7 @@ Markdown es un lenguaje de marcado ligero que permite dar formato al texto de un
 
 ---
 
-# 🧩 Listas
+#  Listas
 
 ### ✔ Cómo se escribe:
 ```markdown
@@ -60,7 +56,7 @@ Markdown es un lenguaje de marcado ligero que permite dar formato al texto de un
 2. Segundo paso
 ```
 
-### ✔ Cómo se ve:
+###  Cómo se ve:
 - Elemento 1
 - Elemento 2
   - Sub-elemento
@@ -70,7 +66,7 @@ Markdown es un lenguaje de marcado ligero que permite dar formato al texto de un
 
 ---
 
-# 🧩 Listas de tareas
+#  Listas de tareas
 
 ### ✔ Cómo se escribe:
 ```markdown
@@ -78,27 +74,27 @@ Markdown es un lenguaje de marcado ligero que permite dar formato al texto de un
 - [ ] Tarea pendiente
 ```
 
-### ✔ Cómo se ve:
+###  Cómo se ve:
 - [x] Tarea completada  
 - [ ] Tarea pendiente
 
 ---
 
-# 🧩 Enlaces
+#  Enlaces
 
 ### ✔ Cómo se escribe:
 ```markdown
 [Visitar Google](https://www.google.com)
 ```
 
-### ✔ Cómo se ve:
+###  Cómo se ve:
 [Visitar Google](https://www.google.com)
 
 ---
 
-# 🧩 Imágenes
+#  Imágenes
 
-### ✔ Cómo se escribe:
+###  Cómo se escribe:
 ```markdown
 ![Texto alternativo](https://via.placeholder.com/150)
 ```
@@ -108,21 +104,21 @@ Markdown es un lenguaje de marcado ligero que permite dar formato al texto de un
 
 ---
 
-# 🧩 Citas
+#  Citas
 
 ### ✔ Cómo se escribe:
 ```markdown
 > Esta es una cita en Markdown
 ```
 
-### ✔ Cómo se ve:
+###  Cómo se ve:
 > Esta es una cita en Markdown
 
 ---
 
-# 🧩 Código
+#  Código
 
-### ✔ Cómo se escribe:
+###  Cómo se escribe:
 ```markdown
 `codigo en línea`
 
@@ -140,7 +136,7 @@ print("Hola mundo")
 
 ---
 
-# 🧩 Tablas
+#  Tablas
 
 ### ✔ Cómo se escribe:
 ```markdown
@@ -150,7 +146,7 @@ print("Hola mundo")
 | Luis   | 30   | Lima    |
 ```
 
-### ✔ Cómo se ve:
+###  Cómo se ve:
 | Nombre | Edad | Ciudad |
 |--------|------|---------|
 | Ana    | 23   | Madrid  |
@@ -158,12 +154,12 @@ print("Hola mundo")
 
 ---
 
-# 🧩 Separadores
+#  Separadores
 
-### ✔ Cómo se escribe:
+###  Cómo se escribe:
 ```markdown
 ---
 ```
 
-### ✔ Cómo se ve:
+###  Cómo se ve:
 ---
