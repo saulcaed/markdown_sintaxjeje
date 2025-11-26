@@ -1,4 +1,3 @@
-# markdown_syntax
 #  Documentación de Markdown
 
 ---
